@@ -20,7 +20,7 @@ export const data = [
   gitHub: "https://github.com/vrmcardoso/browery",
   },
   {
-    image: "img/pokedex/project_photo.png",
+    image: "img/pokedex/Captura de Ecrã (27).png",
     title: "Pokedex",
     subtitle: "Using the Pokedex API",
     description:
@@ -30,7 +30,7 @@ export const data = [
     gitHub: "https://github.com/vascolourenco99/Pokedex-React",
   },
   {
-    image: "img/ChatApp/chatAppImg.png",
+    image: "img/ChatApp/Captura de Ecrã (34).png",
     title: "Chat App",
     subtitle: " Web Chat App",
     description:
@@ -40,7 +40,7 @@ export const data = [
     gitHub: "https://github.com/vascolourenco99/FirstChatApp",
   },
   {
-    image: "img/ShopE-Commerce/eshop.png",
+    image: "img/ShopE-Commerce/Captura de Ecrã (24).png",
     title: "Vasco´s Shop",
     subtitle: "Shop E-Commerce",
     description:
@@ -100,14 +100,3 @@ export const data = [
     gitHub: "https://github.com/vascolourenco99/Calculadora",
   }
 ];
-
-/* {
-image: "",
-  title: "",
-  subtitle: "",
-  description:
-    "",
-  stacks: [""],
-  demo: "",
-  gitHub: "",
-} */
