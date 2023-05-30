@@ -1,0 +1,28 @@
+.cards-container {
+  padding: 5rem 2rem;
+}
+
+.skill {
+  text-align: center;
+}
+
+.columns {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+  grid-auto-rows: minmax(0, max-content);
+}
+
+.info-container {
+  background-color: white;
+  height: 100%;
+  padding: 1px;
+}
+
+.text.center {
+  text-align: center;
+}
+
+.text-skill-style {
+  font-size: 1.1rem;
+}

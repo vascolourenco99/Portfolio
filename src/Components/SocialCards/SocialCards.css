@@ -1,0 +1,55 @@
+.social-cards-container {
+  padding: 5rem 2rem;
+}
+
+.social-title {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 16px;
+}
+
+.social-cards-column {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 2rem;
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+
+.social-card {
+  border-radius: 0.25rem;
+  padding: 1.25rem;
+  background-color: #ffffff;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  position: relative;
+}
+
+.social-card-icon {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 0.5rem;
+  margin-bottom: 0;
+  padding: 0.75rem;
+  background-color: #ffffff;
+}
+
+.social-card-icon h6 {
+  margin-left: 1rem;
+  font-size: 1rem;
+}
+
+.social-card-smll-text {
+  font-size: 14px;
+  line-height: 1.25rem;
+}
+
+.icon-style {
+  font-size: 1.5rem;
+  margin-right: 0.5rem;
+  position: relative;
+  z-index: 1;
+}
+
+

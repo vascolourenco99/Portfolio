@@ -1,0 +1,60 @@
+ul, li {
+ margin: 0;
+ padding: 0;
+ list-style-type: none;
+}
+
+.footer-container {
+  background-color: lightgray;
+}
+
+.footer {
+  padding-left: 2rem;
+  padding-right: 2rem;
+  max-width: 1280px;
+  padding-top: 4rem;
+  margin-left: auto;
+  margin-right: auto
+}
+
+.footer-info-container {
+  text-align: center;
+}
+
+.footer-text {
+  font-size: 1rem;
+  line-height: 1.25rem;
+  margin: 0;
+  margin-top: 5px;
+}
+
+.social-footer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 1.5rem;
+  padding-top: 1.25rem;
+}
+
+.icons-footer {
+  display: flex;
+}
+
+ul.icons-footer li.list-gap {
+  margin-right: 0.5rem;
+}
+
+.icon-linkedin {
+  color: #0072B1; /* Example color */
+  font-size: 2rem; /* Example font size */
+}
+
+.icon-github {
+  color: black; /* Example color */
+  font-size: 2rem; /* Example font size */
+}
+
+.icon-mail {
+  color: black; /* Example color */
+  font-size: 2rem; /* Example font size */
+}
