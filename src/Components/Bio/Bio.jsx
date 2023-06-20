@@ -12,13 +12,13 @@ export default function Bio() {
       <div className='info-container-bio'>
         <div className='personal-info'>
           <div className='personal-image'>
-            <img src="img/photo_linkdin.jpeg" alt="" />
+            <img src="src/img/photo_linkdin.jpeg" alt="" />
           </div>
           <div className='personal-text'>
             <div className='title'>
-              <h2>About Me</h2>
+              <h2 style={{ textDecoration: 'none', color: 'white',     fontSize: "20px" }}>About Me</h2>
             </div>
-            <p className='text-style'>
+            <p className='text-style' style={{ textDecoration: 'none', color: 'white'}}>
               {message}
             </p>
           </div>

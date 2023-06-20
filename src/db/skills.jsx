@@ -6,7 +6,7 @@ export const data = [
   },
   {
     title: "Backend",
-    skills: ["Node.js", "Express", "MongoDB", "MySQL", "Ruby On Rails", "Python", "C#", "RestApi"],
+    skills: ["Node.js", "Express", "MongoDB", "MySQL", "Ruby On Rails", "Python", "C#", "C++", "RestApi"],
   },
   {
     title: "Tools",

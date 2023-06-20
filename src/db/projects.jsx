@@ -1,6 +1,6 @@
 export const data = [
   { 
-  image: "img/Gravy/Captura de Ecrã (1).png",
+  image: "src/img/Gravy/Captura de Ecrã (1).png",
   title: "Gravy",
   subtitle: "Food App",
   description:
@@ -10,7 +10,7 @@ export const data = [
   gitHub: "https://github.com/vrmcardoso/gravy",
   },
   { 
-  image: "img/Browery/Captura de Ecrã (2).png",
+  image: "src/img/Browery/Captura de Ecrã (2).png",
   title: "Browery",
   subtitle: "Airbnb Clone",
   description:
@@ -20,7 +20,7 @@ export const data = [
   gitHub: "https://github.com/vrmcardoso/browery",
   },
   {
-    image: "img/pokedex/Captura de Ecrã (27).png",
+    image: "src/img/pokedex/Captura de Ecrã (27).png",
     title: "Pokedex",
     subtitle: "Using the Pokedex API",
     description:
@@ -30,7 +30,7 @@ export const data = [
     gitHub: "https://github.com/vascolourenco99/Pokedex-React",
   },
   {
-    image: "img/ChatApp/Captura de Ecrã (34).png",
+    image: "src/img/ChatApp/Captura de Ecrã (34).png",
     title: "Chat App",
     subtitle: " Web Chat App",
     description:
@@ -40,7 +40,7 @@ export const data = [
     gitHub: "https://github.com/vascolourenco99/FirstChatApp",
   },
   {
-    image: "img/ShopE-Commerce/Captura de Ecrã (24).png",
+    image: "src/img/ShopE-Commerce/Captura de Ecrã (24).png",
     title: "Vasco´s Shop",
     subtitle: "Shop E-Commerce",
     description:
@@ -50,7 +50,7 @@ export const data = [
     gitHub: "https://github.com/vascolourenco99/ShopNodeJs",
   },
   {
-  image: "img/GuessMyNumber/Captura de Ecrã (16).png",
+  image: "src/img/GuessMyNumber/Captura de Ecrã (16).png",
     title: "Guess My Number",
     subtitle: "",
     description:
@@ -60,7 +60,7 @@ export const data = [
     gitHub: "https://github.com/vascolourenco99/Guess-My-Number-",
   },
   {
-  image: "img/PigGame/Captura de Ecrã (19).png",
+  image: "src/img/PigGame/Captura de Ecrã (19).png",
     title: "Pig Game",
     subtitle: "",
     description:
