@@ -1,5 +1,5 @@
 .cards-container {
-  padding: 5rem 2rem;
+  padding: 5rem 1rem;
 }
 
 .skill {
@@ -17,6 +17,10 @@
   background-color: white;
   height: 100%;
   padding: 1px;
+  /* display: flex; 
+  flex-direction: column; 
+  justify-content: flex-start; 
+  align-items: flex-start; */
 }
 
 .text.center {

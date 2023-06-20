@@ -33,7 +33,7 @@ export default function Footer() {
           </ul>
         </div>
         <div className="footer-info-container">
-          <p className="footer-text">© {new Date().getFullYear()} VascoWebDev. All rights reserved.</p>
+          <p className="footer-text">© {new Date().getFullYear()} VascoDev. All rights reserved.</p>
         </div>
       </footer>
     </div>

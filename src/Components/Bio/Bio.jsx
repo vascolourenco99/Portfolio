@@ -16,7 +16,7 @@ export default function Bio() {
           </div>
           <div className='personal-text'>
             <div className='title'>
-              <h2 style={{ textDecoration: 'none', color: 'white',     fontSize: "20px" }}>About Me</h2>
+              <h2>About Me</h2>
             </div>
             <p className='text-style' style={{ textDecoration: 'none', color: 'white'}}>
               {message}

@@ -1,3 +1,8 @@
+h2 {
+  text-decoration: none; 
+  color: white;
+}
+
 .personal-info {
   display: flex;
   flex-wrap: wrap;
@@ -29,6 +34,7 @@ img {
   padding: 3rem;
   border-radius: 10px;
   background-color: #214F4B;
+  height: 1%;
 }
 
 .text-style {
@@ -53,7 +59,7 @@ img {
 
 
   .text-style {
-    font-size: 1.4rem;
+    font-size: 1rem;
     line-height: 1.75rem;
   }
 

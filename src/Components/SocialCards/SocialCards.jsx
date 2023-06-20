@@ -5,7 +5,7 @@ export default function SocialCards({ socialCards }) {
   return (
     <div className="social-cards-container" id="contacts">
       <div className="social-title">
-        <h2>Connect with Me!</h2>
+        <h2 style={{color: "black"}} >Connect with Me!</h2>
       </div>
       <div className="social-cards-column">
         {socialCards.map((card, index) => (
